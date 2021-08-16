@@ -1,4 +1,4 @@
-import { CreateUserUseCase } from './CreateUserUseCase';
+import { CreateUserUseCase } from '../useCases/CreateUser/CreateUserUseCase';
 import { Request, Response } from "express";
 
 export class CreateUserController {
